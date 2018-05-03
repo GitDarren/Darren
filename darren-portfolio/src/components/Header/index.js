@@ -1,10 +1,10 @@
 import React from 'react'
 import Link from 'gatsby-link'
-import styled from 'styled-components'
+// import styled from 'styled-components'
 
 import logo from '../../images/logo.jpg'
 
-const Header = ({ siteTitle }) => (
+const Header = () => (
   <div
     style={{
       background: 'rebeccapurple',
